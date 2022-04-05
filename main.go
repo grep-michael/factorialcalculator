@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	startServer()
+	//TestFac(uint64(65))
+	StartServer()
 }
